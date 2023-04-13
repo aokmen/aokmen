@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 Hi! 
 <br> <img
-src="https://github.com/mayankchaudhary26/mayankchaudhary26/raw/output/github-contribution-grid-snake.gif" width="100px" />
+src="https://github.com/mayankchaudhary26/mayankchaudhary26/raw/output/github-contribution-grid-snake.gif" width="80%" />
 
 
 ### Tech Stack
