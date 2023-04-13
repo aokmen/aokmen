@@ -16,15 +16,22 @@ Here are some ideas to get you started:
 -->
 
 👨🏻‍💻 Hi! 
+<br>
+<h3> Not the ones speaking the same language, but the ones sharing the same feeling understand each other. -Rumi </h3>
+
 <br> <img
 src="https://github.com/mayankchaudhary26/mayankchaudhary26/raw/output/github-contribution-grid-snake.gif" width="100%" />
 
+<br> <img
+src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/night%20code.gif" width="100%" />
 
-### Tech Stack
+
+
+<!--### Tech Stack
 
 - 🛠 Lang & Framework: React, Javascript
 - ⛏ Interest: Typescript
-
+-->
 
 
 ### Portfolio
