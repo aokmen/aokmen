@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏻‍💻 Hi! 
+👨🏻‍💻 <h3>Hi there! </h3>
 <br>
 <h3> Not the ones speaking the same language, but the ones sharing the same feeling understand each other. -Rumi </h3>
 
