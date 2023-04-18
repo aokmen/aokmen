@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-👨🏻‍💻 <h3>Hi there! </h3>
+
+👨🏻‍💻 
+-->
+<h3>Hi there! </h3>
+<!--
 <br>
 <h3> Not the ones speaking the same language, but the ones sharing the same feeling understand each other. -Rumi </h3>
 
@@ -27,13 +30,13 @@ src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/nigh
 
 
 
-<!--### Tech Stack
+### Tech Stack
 
 - 🛠 Lang & Framework: React, Javascript
 - ⛏ Interest: Typescript
 -->
 
-
+<!--
 ### Portfolio
 
 > *pending...*
@@ -47,5 +50,7 @@ src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/nigh
   </pre>
 </details>
 
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen)
-![pv](https://pageview.vercel.app/?github_user=aokmen)
+![pv](https://pageview.vercel.app/?github_user=aokmen) 
+-->
