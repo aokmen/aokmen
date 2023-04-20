@@ -54,3 +54,9 @@ src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/nigh
 ![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen)
 ![pv](https://pageview.vercel.app/?github_user=aokmen) 
 -->
+
+![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=aokmen&show_icons=true&theme=dracula&hide=stars,issues)
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen)
+![pv](https://pageview.vercel.app/?github_user=aokmen) 
