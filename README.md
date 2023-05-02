@@ -54,17 +54,15 @@ src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/nigh
 ![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen)
 ![pv](https://pageview.vercel.app/?github_user=aokmen) 
 -->
-<p align="center">
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aokmen&theme=dark&hide_border=true"/>
+![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen)
+![pv](https://pageview.vercel.app/?github_user=aokmen) 
 
-</p>
+<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aokmen&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aokmen&theme=dark&hide_border=true"/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=aokmen&theme=react-dark&hide_border=true&area=true)
-<details>
 
 <!-- [![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokmen)](https://github.com/aokmen/github-readme-stats) -->
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokmen&show_icons=true&theme=radical)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen)
-![pv](https://pageview.vercel.app/?github_user=aokmen) 
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=aokmen&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
