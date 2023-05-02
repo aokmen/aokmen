@@ -54,6 +54,7 @@ src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/nigh
 ![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen)
 ![pv](https://pageview.vercel.app/?github_user=aokmen) 
 -->
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokmen&show_icons=true&theme=radical)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen)
 ![pv](https://pageview.vercel.app/?github_user=aokmen) 
 
@@ -62,7 +63,7 @@ src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/nigh
 
 
 <!-- [![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokmen)](https://github.com/aokmen/github-readme-stats) -->
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokmen&show_icons=true&theme=radical)
+
 
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=aokmen&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
