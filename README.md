@@ -42,7 +42,13 @@ src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/nigh
 > *pending...*
 
 ![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=aokmen&show_icons=true&theme=dracula&hide=stars,issues)
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+
+<p align="center">
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aokmen&theme=dark&hide_border=true"/>
+
+</p>
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=aokmen&theme=react-dark&hide_border=true&area=true)
 <details>
   <summary>Click👆</summary>
