@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aokmen&show_icons=true&theme=radical" width="50%" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aokmen&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true)" width="50%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aokmen&show_icons=true&theme=radical" width="210" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aokmen&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true)" width="210" alt="languages graph"  />
 </div>
 
 
@@ -16,7 +16,7 @@
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=aokmen&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 <!-- ### Hi there 👋 -->
