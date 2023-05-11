@@ -6,10 +6,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen) 
 ![pv](https://pageview.vercel.app/?github_user=aokmen) 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aokmen&theme=dark&hide_border=true" height="180"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aokmen&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" height="180" alt="languages graph" />
-</div> 
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aokmen&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=aokmen&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="languages graph" />
+
 
 
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 
 -->
-<h3>Hi there! </h3>
+
 <!--
 <br>
 <h3> Not the ones speaking the same language, but the ones sharing the same feeling understand each other. -Rumi </h3>
