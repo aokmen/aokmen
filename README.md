@@ -6,11 +6,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen) 
 ![pv](https://pageview.vercel.app/?github_user=aokmen) 
 
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aokmen&theme=dark&hide_border=true" />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=aokmen&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="languages graph" />
-
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aokmen&theme=dark&hide_border=true" width="40%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aokmen&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="languages graph" width="40%"/>
+</div>
 
 
 
