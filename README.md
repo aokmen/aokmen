@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78B24&width=435&lines=Hi+There!+I'm+walking+the+Full+Stack+web+developer+path.+My+aim+is+to+advance+in+this+field...)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aokmen&show_icons=true&theme=radical" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aokmen&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true)" height="180" alt="languages graph"  />
