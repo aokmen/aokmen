@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78B24&width=435&lines=Hi+There!+I'm+walking+the+Full+Stack+web+developer+path.+My+aim+is+to+advance+in+this+field...)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78B24&width=435&lines=Hi+There!;I'm+walking+the+Full+Stack+web+developer+path.;+My+aim+is+to+advance+in+this+field...;Coding+makes+me+happy!" alt="Example Usage - README Typing SVG">
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aokmen&show_icons=true&theme=radical" height="180" alt="stats graph"  />
