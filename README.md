@@ -13,8 +13,8 @@
 <img src="https://pageview.vercel.app/?github_user=aokmen" height="50" alt="stats graph"  />
 </div>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen) 
-![pv](https://pageview.vercel.app/?github_user=aokmen) 
+<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen) 
+![pv](https://pageview.vercel.app/?github_user=aokmen) -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aokmen&theme=dark&hide_border=true" />
