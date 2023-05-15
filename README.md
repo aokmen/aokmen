@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aokmen&theme=dark&hide_border=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aokmen&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="languages graph" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=aokmen&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="languages graph" /> -->
 </div>
 
 
