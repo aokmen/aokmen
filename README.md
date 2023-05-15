@@ -7,11 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aokmen&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true)" height="160" alt="languages graph"  />
 </div>
 
-<div align="center">
-  ![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen) 
-  ![pv](https://pageview.vercel.app/?github_user=aokmen) 
-</div>
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen) 
 ![pv](https://pageview.vercel.app/?github_user=aokmen) 
 
