@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="180">
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300">
 </div>
 
 <div align="center">
