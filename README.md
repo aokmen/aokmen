@@ -14,7 +14,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/github/last-commit/aokmen/aokmen" height="26" alt="stats graph"  />
-<img src="https://pageview.vercel.app/?github_user=aokmen" height="27" alt="stats graph"  />
+<img src="https://pageview.vercel.app/?github_user=aokmen" height="26" alt="stats graph"  />
 </div>
 
 <!-- ![GitHub last commit](https://img.shields.io/github/last-commit/aokmen/aokmen) 
